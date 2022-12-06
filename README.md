@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/36193643/206034371-7952b9dd-7d95-4ad2-bf30-a915ef8d082f.png" />
+</div>
+
 <h1 align=center>Flutter dark mode</h1>
 <p align=center>Flutter dark mode tutorial.</p>
 
