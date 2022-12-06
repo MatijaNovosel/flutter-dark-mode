@@ -3,7 +3,7 @@
 </div>
 
 <h1 align=center>Flutter dark mode</h1>
-<p align=center>Flutter dark mode tutorial.</p>
+<p align=center>Flutter dark mode tutorial, described <a href="https://www.matijanovosel.com/blog/dark-mode-in-flutter-using-riverpod">on my blog</a> and on <a href="https://dev.to/matijanovosel/dark-mode-in-flutter-using-riverpod-5aid">dev.to</a>.</p>
 
 ## Requirements
 
